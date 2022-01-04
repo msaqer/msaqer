@@ -13,7 +13,7 @@
 - ⚡ Fun facts:
     - Speak Arabic, English, and Hebrew; I try to remember my forgotten French. 
     - 🌱 I like to cook sometimes but not often.
-    - I live in at the center of the North American continent: North Dakota state (famous of producing more honey)
+    - I live at the center of the North American continent: North Dakota state (famous of producing more honey)
     - 🚴‍♀️ BIKE: love to bike (during the past five years, I owned three bikes and all of them have gone).
     - Data 💛 & Tea ☕ lover.
 
