@@ -1,6 +1,4 @@
-### Hi there 👋
-### I'm Muhammad Abusaqer
-### a Data Scientist & Analyst, Software Developer, Educator, Fulbright Alumni, and Writer
+### Hi there 👋 <br> I'm Muhammad Abusaqer <br> a Data Scientist & Analyst, Software Developer, Educator, Fulbright Alumni, and Writer
  -  👯 Looking for a **full-time job** as *Assistant Professor in Computer Science*, *Data Science* **or** *Applied/Research Data Scientist*.
  -  🎓 Ph.D. in Computer Science from North Dakota State University, (expected May 2022). My Ph.D. thesis is in the domain of mining text from social media.
  -  🔭 I'm currenlty working on exploring the different uses of Macnine learning (ML) and Data mining algorithms with focusing on Natual Language Processing (NLP). 
