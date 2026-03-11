@@ -1,20 +1,39 @@
-### Hi there 👋 <br> I'm Muhammad Abusaqer <br> a Data Scientist & Analyst, Software Developer, Educator, *Fulbright* Alumni, and Writer
- -  👯 Looking for a **full-time job** as *Assistant Professor in Computer Science*, *Data Science* **or** *Applied/Research Data Scientist*.
- -  🎓 Ph.D. in Computer Science from North Dakota State University, (expected May 2022). My Ph.D. thesis is in the domain of mining text from social media.
- -  🔭 I'm currenlty working on exploring the different uses of Macnine learning (ML) and Data mining algorithms with focusing on Natual Language Processing (NLP). 
- -  🔭 I’m currently deepening my expertise in Python, Power BI, Excel, Tableau, SQL, and R.
- -  🔭 I’m currently working as a research assistant (RA): applying AI algorithms to detect objects in images and to obtain accurate sentiment according to its context of short messages extracted from social media feeds using TensorFlow, Spark, and various classification ML ones.
- - 👯 I’m looking to collaborate in data science and coding.
- - 💬 Ask me about computer science, data science, soccer, history, geography, philosophy, politics, religions, astronomy, bioinformatics, genome, art & poems, and jokes.
- - 📫 How to reach me:
-      - muhammad.abusaqer@ndsu.com
-      - https://www.linkedin.com/in/msaqer/
-      - https://msaqer.github.io/
-- ⚡ Fun facts:
-    - Speak Arabic, English, and Hebrew; I try to remember my forgotten French. 
-    - 🌱 I like sometimes to cook when I have free time but not often.
-    - I live at the center of the North American continent: North Dakota state (famous of producing more honey)
-    - 🚴‍♀️ BIKE: love to bike (during the past five years, I owned three bikes and all of them have gone).
-    - Data 💛 & Tea ☕ lover.
+# Hi there, I'm Muhammad Abusaqer 👋
 
+I am an Assistant Professor of Computer Science and Cybersecurity at Minot State University. My work focuses on the intersection of **machine learning**, **natural language processing**, **cybersecurity**, and **applied data science**.
 
+My research includes the development and evaluation of computational methods for:
+- cybersecurity-related social media analysis
+- cyber threat intelligence from online text
+- cyberbullying and abusive language detection
+- comparative benchmarking of machine learning and transformer-based models
+- trustworthy and practical applications of AI
+
+## Research Interests
+- Machine Learning
+- Natural Language Processing
+- Cybersecurity Analytics
+- Social Media Data Mining
+- Trustworthy AI
+- Deep Learning for Text Classification
+
+## Current Activities
+- Conducting research in NLP and cybersecurity
+- Mentoring undergraduate student research projects
+- Developing applied AI and data-driven solutions for real-world problems
+- Teaching courses in computer science, cybersecurity, and software development
+
+## Selected Technical Areas
+- Python
+- Data Analysis and Visualization
+- Machine Learning and Deep Learning
+- NLP and Text Mining
+- SQL and Data Processing
+- Research-Oriented Software Development
+
+## Collaboration
+I am interested in research collaboration in areas related to machine learning, NLP, cybersecurity, and applied AI.
+
+## Links
+- LinkedIn: https://www.linkedin.com/in/msaqer/
+- Website: https://msaqer.github.io/
